@@ -1,2 +1,2 @@
 # tiktok-hotmail-full-cap
-tiktok hotmail checker, mail access, check if mail access, search inbox and look for tiktok messages, ger the username and check its information.
+tiktok hotmail checker, is a email access checker, login to email:pass search for inbox and look for tiktok messages and get the username and check its informations.
